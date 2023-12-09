@@ -1,8 +1,11 @@
 const servicesData = [
     {
-        title: "Frontend Development",
+        title: "Development",
         category: "frontend",
-        description: ['String 1', 'String 2', 'String 3']
+        description: [
+            'Proficient in languages such as JavaScript, Python, C++, and HTML/CSS', 
+        'Experience building web and mobile applications using frameworks like React and Django', 
+        'Strong visual design capabilities including prototyping, UI/UX, and graphic design']
     },
     {
         title: "Backend Development",
